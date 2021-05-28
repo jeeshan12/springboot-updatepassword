@@ -1,0 +1,7 @@
+version: "3"
+services:
+  changepassword-service:
+    image: jeeshan/passwordvalidator
+    container_name: changepassword
+    ports:
+      - "8080:8080"
