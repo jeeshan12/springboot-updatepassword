@@ -59,7 +59,7 @@ b) Go to target folder and open your terminal and run command java -jar changepa
 
 ### h2 database
 Once application is up and running 4 users will inserted into database automagically. You can access the h2- console in your browser window by hitting url [h2-console](http://localhost:8080/console/h2-console). UI will look something like this.
-![](https://github.com/jeeshan12/springboot-updatepassword/blob/main/screenshots/DBConsole.png)
+![](https://github.com/jeeshan12/springboot-updatepassword/blob/main/screenshots/h2-db-console.png)
 After login you can run Select command to see all the records
 ```
 SELECT * FROM USER
