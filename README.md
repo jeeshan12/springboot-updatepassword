@@ -48,7 +48,7 @@ mvn clean install -DskipTests=true
 ### Application can be build in 2 ways
 * Using **Maven**
 ```
-From root of your project open terminal and run the command mvn sprin-boot:run
+From root of your project open terminal and run the command mvn spring-boot:run
 ```
 * Using **jar** file
 ```
